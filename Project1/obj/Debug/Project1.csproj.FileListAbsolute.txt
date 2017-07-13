@@ -1,0 +1,6 @@
+J:\SampleVS2015\Project1\Project1\bin\Debug\Project1.exe.config
+J:\SampleVS2015\Project1\Project1\bin\Debug\Project1.exe
+J:\SampleVS2015\Project1\Project1\bin\Debug\Project1.pdb
+J:\SampleVS2015\Project1\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+J:\SampleVS2015\Project1\Project1\obj\Debug\Project1.exe
+J:\SampleVS2015\Project1\Project1\obj\Debug\Project1.pdb
