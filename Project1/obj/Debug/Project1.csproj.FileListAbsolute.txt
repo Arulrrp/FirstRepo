@@ -4,3 +4,9 @@ J:\SampleVS2015\Project1\Project1\bin\Debug\Project1.pdb
 J:\SampleVS2015\Project1\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
 J:\SampleVS2015\Project1\Project1\obj\Debug\Project1.exe
 J:\SampleVS2015\Project1\Project1\obj\Debug\Project1.pdb
+C:\Users\Arul\Source\Repos\Jul-2017\FirstRepo\Project1\bin\Debug\Project1.exe.config
+C:\Users\Arul\Source\Repos\Jul-2017\FirstRepo\Project1\obj\Debug\Project1.exe
+C:\Users\Arul\Source\Repos\Jul-2017\FirstRepo\Project1\obj\Debug\Project1.pdb
+C:\Users\Arul\Source\Repos\Jul-2017\FirstRepo\Project1\bin\Debug\Project1.exe
+C:\Users\Arul\Source\Repos\Jul-2017\FirstRepo\Project1\bin\Debug\Project1.pdb
+C:\Users\Arul\Source\Repos\Jul-2017\FirstRepo\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache

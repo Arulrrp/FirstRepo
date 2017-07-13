@@ -12,6 +12,8 @@ namespace Project1
         {
             Console.WriteLine("Hello GitHub");
             Console.ReadLine();
+            Console.WriteLine("New branch");
+
         }
     }
 }
